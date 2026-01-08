@@ -1,40 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Paper Reader: J Management Studies - 2018 - Kim - Person or Job  Change in Person‐Job Fit and Its Impact on Employee Work Attitudes over</title>
-    <description>Audio generated from documents/J Management Studies - 2018 - Kim - Person or Job  Change in Person‐Job Fit and Its Impact on Employee Work Attitudes over.pdf</description>
+    <title>Paper Reader: Demands-abilities_fit_work_beliefs_meaningful_work</title>
+    <description>Audio generated from documents/Demands-abilities_fit_work_beliefs_meaningful_work.pdf</description>
     <link>https://setten-QB.github.io/paper-reader-podcast</link>
     <language>ja</language>
     <itunes:author>Paper Reader</itunes:author>
-    <lastBuildDate>Wed, 17 Dec 2025 23:48:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 12:44:04 GMT</lastBuildDate>
     <itunes:image href="https://setten-QB.github.io/paper-reader-podcast/cover.jpg" />
+    <item>
+      <title>Demands-Abilities Fit Work Beliefs Meaningful Work Pt2</title>
+      <description>Audio paper generated from Demands-abilities_fit_work_beliefs_meaningful_work_pt2.mp3</description>
+      <enclosure url="https://setten-QB.github.io/paper-reader-podcast/audio/Demands-abilities_fit_work_beliefs_meaningful_work_pt2.mp3" length="20944172" type="audio/mpeg" />
+      <guid isPermaLink="false">Demands-abilities_fit_work_beliefs_meaningful_work_pt2.mp3</guid>
+      <pubDate>Thu, 08 Jan 2026 12:44:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Demands-Abilities Fit Work Beliefs Meaningful Work Pt1</title>
+      <description>Audio paper generated from Demands-abilities_fit_work_beliefs_meaningful_work_pt1.mp3</description>
+      <enclosure url="https://setten-QB.github.io/paper-reader-podcast/audio/Demands-abilities_fit_work_beliefs_meaningful_work_pt1.mp3" length="52150892" type="audio/mpeg" />
+      <guid isPermaLink="false">Demands-abilities_fit_work_beliefs_meaningful_work_pt1.mp3</guid>
+      <pubDate>Thu, 08 Jan 2026 12:44:03 GMT</pubDate>
+    </item>
     <item>
       <title>J Management Studies - 2018 - Kim - Person Or Job  Change In Person‐Job Fit And Its Impact On Employee Work Attitudes Over</title>
       <description>Audio paper generated from J Management Studies - 2018 - Kim - Person or Job  Change in Person‐Job Fit and Its Impact on Employee Work Attitudes over.mp3</description>
       <enclosure url="https://setten-QB.github.io/paper-reader-podcast/audio/J%20Management%20Studies%20-%202018%20-%20Kim%20-%20Person%20or%20Job%20%20Change%20in%20Person%E2%80%90Job%20Fit%20and%20Its%20Impact%20on%20Employee%20Work%20Attitudes%20over.mp3" length="72205100" type="audio/mpeg" />
       <guid isPermaLink="false">J Management Studies - 2018 - Kim - Person or Job  Change in Person‐Job Fit and Its Impact on Employee Work Attitudes over.mp3</guid>
-      <pubDate>Wed, 17 Dec 2025 23:48:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Demands-Abilities Fit Work Beliefs Meaningful Work</title>
-      <description>Audio paper generated from Demands-abilities_fit_work_beliefs_meaningful_work.mp3</description>
-      <enclosure url="https://setten-QB.github.io/paper-reader-podcast/audio/Demands-abilities_fit_work_beliefs_meaningful_work.mp3" length="73137644" type="audio/mpeg" />
-      <guid isPermaLink="false">Demands-abilities_fit_work_beliefs_meaningful_work.mp3</guid>
-      <pubDate>Wed, 17 Dec 2025 21:49:07 GMT</pubDate>
+      <pubDate>Thu, 18 Dec 2025 02:27:52 GMT</pubDate>
     </item>
     <item>
       <title>Enhancing Person-Job Fit- Who Needs A Strengths-Based Leader To Fit Their Job</title>
       <description>Audio paper generated from Enhancing person-job fit- Who needs a strengths-based leader to fit their job.mp3</description>
       <enclosure url="https://setten-QB.github.io/paper-reader-podcast/audio/Enhancing%20person-job%20fit-%20Who%20needs%20a%20strengths-based%20leader%20to%20fit%20their%20job.mp3" length="63111596" type="audio/mpeg" />
       <guid isPermaLink="false">Enhancing person-job fit- Who needs a strengths-based leader to fit their job.mp3</guid>
-      <pubDate>Wed, 17 Dec 2025 21:33:58 GMT</pubDate>
+      <pubDate>Thu, 18 Dec 2025 02:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Demands-Abilities Fit Work Beliefs Meaningful Work</title>
+      <description>Audio paper generated from Demands-abilities_fit_work_beliefs_meaningful_work.mp3</description>
+      <enclosure url="https://setten-QB.github.io/paper-reader-podcast/audio/Demands-abilities_fit_work_beliefs_meaningful_work.mp3" length="73137644" type="audio/mpeg" />
+      <guid isPermaLink="false">Demands-abilities_fit_work_beliefs_meaningful_work.mp3</guid>
+      <pubDate>Thu, 18 Dec 2025 02:27:52 GMT</pubDate>
     </item>
     <item>
       <title>Contrasts Or Carryover? Demands–Capabilities Fit And Task-Level Intrinsic Motivation Across The Workday</title>
       <description>Audio paper generated from Contrasts or Carryover? Demands–Capabilities Fit and Task-Level Intrinsic Motivation Across the Workday.mp3</description>
       <enclosure url="https://setten-QB.github.io/paper-reader-podcast/audio/Contrasts%20or%20Carryover%3F%20Demands%E2%80%93Capabilities%20Fit%20and%20Task-Level%20Intrinsic%20Motivation%20Across%20the%20Workday.mp3" length="119433452" type="audio/mpeg" />
       <guid isPermaLink="false">Contrasts or Carryover? Demands–Capabilities Fit and Task-Level Intrinsic Motivation Across the Workday.mp3</guid>
-      <pubDate>Fri, 12 Dec 2025 23:54:53 GMT</pubDate>
+      <pubDate>Thu, 18 Dec 2025 02:27:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
